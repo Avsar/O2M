@@ -1,5 +1,5 @@
 # How to Create an Action Card
 
--   [Introduction](Introduction.html)
--   [Prerequisites](prerequisites.html)
+-   [Introduction](Introduction.md)
+-   [Prerequisites](prerequisites.md)
 
